@@ -10,4 +10,5 @@
     1. Definition
     2. Features
     3. Architecture (in brief)
-    4. Life Cycle of f
+    4. Life Cycle of file in GIT
+    5. Configuration
